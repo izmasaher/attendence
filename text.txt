@@ -2,4 +2,8 @@ this is my text file.
 This include the attendence details in text.
 Hello from TEXT branch.
 Hello from TEXT branch.
+<<<<<<< HEAD
 Hello from main branch.
+=======
+Hello from FEATURE branch.
+>>>>>>> feature-branch
